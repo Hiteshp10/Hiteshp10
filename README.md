@@ -1,4 +1,19 @@
-## 👋 About Me: 
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
+<h1 align="center">Hi 👋, I'm Suraj Ugale from India 🇮🇳</h1>
+
+<h3 align="center">
+ DevOps & Cloud Engineer | Automating Infrastructure 
+</h3>
+
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+
+
+---
+
+<h2>👨‍💻 About Me</h2>
+
 I’m Hitesh Patil, an AWS & DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud infrastructure. I specialize in CI/CD pipelines, Infrastructure as Code, Linux administration, and containerized deployments using AWS, Docker, Kubernetes, Terraform, and Ansible.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshgpatil/)  
